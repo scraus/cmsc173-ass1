@@ -1,5 +1,3 @@
-# cmsc173-ass1
-
 # Assignment 1: Data Cleaning
 Since data cleaning is crucial before using any machine algorithm, kindly include a link to your Jupyter notebook that displays solutions and results for the following issues on a dataset:
 
